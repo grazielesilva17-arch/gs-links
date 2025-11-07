@@ -1,1 +1,1 @@
-# gs-links
+index.html
